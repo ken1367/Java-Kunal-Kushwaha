@@ -1,0 +1,41 @@
+Sure, here are the formulas for the calculations you mentioned:
+
+1. Calculate Electricity Bill: 
+   Electricity Bill = (Wattage x Hours used) / 1000 x Cost per unit
+
+2. Calculate Average Of N Numbers:
+   Average = (Sum of all numbers) / (Total number of numbers)
+
+3. Calculate Discount Of Product:
+   Discount = Marked Price - Selling Price
+
+4. Calculate Distance Between Two Points:
+   Distance = sqrt((x2-x1)^2 + (y2-y1)^2)
+
+5. Calculate Commission Percentage:
+   Commission Percentage = (Commission / Sale Amount) x 100
+
+6. Calculate Depreciation of Value:
+   Depreciation = (Initial Value - Final Value) / Useful Life
+
+7. Calculate Batting Average:
+   Batting Average = Total Runs Scored / Number of times Out
+
+8. Calculate CGPA:
+   CGPA = (Sum of (Grade Point x Credit)) / Total Credits
+
+9. Compound Interest:
+   Compound Interest = P*(1+r/n)^(n*t) - P
+   where P is the principal amount, r is the annual interest rate, n is the number of times the interest is compounded per year, and t is the time period in years.
+
+10. Calculate Average Marks:
+    Average Marks = (Sum of all marks obtained) / (Total number of subjects)
+
+11. Find Ncr & Npr:
+    Ncr = n! / r! * (n-r)!
+    Npr = n! / (n-r)!
+    where n is the total number of items, and r is the number of items taken at a time.
+
+12. Future Investment Value:
+    Future Value = Present Value * (1 + (Interest Rate/100))^n
+    where Present Value is the amount invested, Interest Rate is the annual interest rate, and n is the number of years.

@@ -1,0 +1,26 @@
+Sure, here are the formulas you requested:
+
+Area Of Circle = π × radius²
+Area Of Triangle = (1/2) × base × height
+Area Of Rectangle Program = length × breadth
+Area Of Isosceles Triangle = (1/2) × base × height
+Area Of Parallelogram = base × height
+Area Of Rhombus = (diagonal₁ × diagonal₂) / 2
+Area Of Equilateral Triangle = (sqrt(3)/4) × side²
+Perimeter Of Circle = 2 × π × radius
+Perimeter Of Equilateral Triangle = 3 × side
+
+Perimeter Of Parallelogram = 2 × (length + breadth)
+Perimeter Of Rectangle = 2 × (length + breadth)
+Perimeter Of Square = 4 × length
+Perimeter Of Rhombus = 4 × length
+Volume Of Cone = (1/3) × π × radius² × height
+Volume Of Prism = base area × height
+Volume Of Cylinder = π × radius² × height
+Volume Of Sphere = (4/3) × π × radius³
+Volume Of Pyramid = (1/3) × base area × height
+Curved Surface Area Of Cylinder = 2 × π × radius × height
+Total Surface Area Of Cube = 6 × side²
+
+
+Note that in the formulas above, π represents the mathematical constant pi (approximately equal to 3.14159), radius refers to the distance from the center of a circle or sphere to its edge, and base and height refer to the dimensions of the relevant shapes.
